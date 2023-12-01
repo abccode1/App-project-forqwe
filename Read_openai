@@ -1,0 +1,13 @@
+How to have our AI assistant 
+query openAI's GPT-3 and speak the result
+
+Create openai account and get API key
+https://openai.com/api/
+
+Get API key and paste it in
+config .py
+
+firstly do 
+pip install openai==0.28
+Install openAI 
+  pip3 install --upgrade openai
